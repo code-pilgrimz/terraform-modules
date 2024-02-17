@@ -5,3 +5,4 @@
 - off-by-one, fixed
 - check perf here
 - tidy up
+- minor wording
