@@ -10,3 +10,4 @@
 - revisit later
 - TODO clean this
 - check perf here
+- minor wording
