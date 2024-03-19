@@ -3,3 +3,4 @@ variable "env" { type = string }
 
 output "ecs_id" { value = "ecs-${var.env}" }
 # minor wording
+# revisit later
