@@ -12,3 +12,4 @@ output "vpc_id" { value = "vpc-${var.env}" }
 # off-by-one, fixed
 # revisit later
 # left a note for myself
+# minor wording
