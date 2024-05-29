@@ -6,3 +6,4 @@ output "s3_id" { value = "s3-${var.env}" }
 # left a note for myself
 # TODO clean this
 # TODO clean this
+# check perf here
