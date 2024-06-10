@@ -6,3 +6,4 @@ output "ecs_id" { value = "ecs-${var.env}" }
 # revisit later
 # check perf here
 # left a note for myself
+# check perf here
