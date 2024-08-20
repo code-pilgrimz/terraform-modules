@@ -7,3 +7,4 @@ output "rds_id" { value = "rds-${var.env}" }
 # minor wording
 # off-by-one, fixed
 # TODO clean this
+# left a note for myself
