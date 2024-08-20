@@ -6,3 +6,4 @@ spec:
   selector: { app: api }
   ports: [ { port: 80, targetPort: 8080 } ]
 # off-by-one, fixed
+# off-by-one, fixed
