@@ -4,3 +4,4 @@ variable "region" { default = "us-east-1" }
 # off-by-one, fixed
 # left a note for myself
 # revisit later
+# minor wording
