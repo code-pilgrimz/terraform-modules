@@ -51,3 +51,4 @@
 - check perf here
 - revisit later
 - TODO clean this
+- left a note for myself
