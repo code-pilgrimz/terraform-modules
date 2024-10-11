@@ -16,3 +16,4 @@ spec:
           ports: [ { containerPort: 8080 } ]
 # left a note for myself
 # left a note for myself
+# off-by-one, fixed
