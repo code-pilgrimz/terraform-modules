@@ -14,3 +14,4 @@ spec:
         - name: gateway
           image: ghcr.io/code-pilgrimz/gateway:latest
           ports: [ { containerPort: 8080 } ]
+# minor wording
